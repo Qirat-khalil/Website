@@ -1,0 +1,55 @@
+.main-sec{
+    background-color: rgb(211, 167, 252);
+}
+
+.nav-link li{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.navbar-butt button{
+    padding: 10px 25px;
+
+}
+
+.cont-sec{
+    /* background-color: aqua; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* padding: 25px; */
+    margin-top: 150px;
+}
+.head-para{
+    /* background-color: blueviolet; */
+   
+}
+
+.head-para button{
+    justify-content: start;
+}
+
+.cont-2 {
+    /* width: 100%; */
+    /* background-color: brown; */
+}
+.cont-2 img{
+    width: 100%;
+}
+
+.navbar-butt2 button{
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+.navbar-butt2{
+    background-color: rgb(139, 88, 173);
+
+}
+/* @media (min-width:992px) {
+    .cont-sec image{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+} */
